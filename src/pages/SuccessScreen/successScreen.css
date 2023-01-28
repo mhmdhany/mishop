@@ -1,0 +1,28 @@
+.success .thanku {
+  background: #04d39f;
+  padding: 40px;
+}
+.ordered-item {
+  background: #f5f5f5;
+  margin-bottom: 5px;
+  text-align: center;
+}
+.ordered-detail .table .ordered-item .ordered-image {
+  width: 50px;
+  display: inline-block;
+  border: none;
+}
+
+.success .table {
+  border: 1px solid #e8e8e8;
+  border-radius: 0;
+}
+.ordered-detail {
+  padding: 0 40px 40px 40px;
+}
+.success .button {
+  text-decoration: none;
+  padding: 10px 20px;
+  background: #04d39f;
+  color: #ffffff;
+}

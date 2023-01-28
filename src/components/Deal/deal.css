@@ -1,0 +1,26 @@
+.deal {
+  background-image: url("http://ciyashop-react.potenzaglobalsolutions.com/static/media/deal-bg.4a078e54.png");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+@media screen and (max-width: 767px) {
+  .deal {
+    height: 50vh;
+  }
+}
+.deal-content .deal-banner {
+  padding: 8px;
+  background-color: #323232;
+  color: white;
+  border-radius: 2px;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+  display: inline-block;
+}
+.deal-content .deal-btn:hover {
+  background-color: #323232 !important;
+  color: white !important;
+}

@@ -1,0 +1,4 @@
+.check-form input:focus{
+  box-shadow: 0 !important;
+  border-color: #57bc94 !important;
+}

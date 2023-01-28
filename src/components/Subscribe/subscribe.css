@@ -1,0 +1,14 @@
+.subscribe .container {
+  background-image: url("http://ciyashop-react.potenzaglobalsolutions.com/static/media/subscribe-bg.6111afa3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.form-inputs .form .form-input:focus {
+  outline: none;
+}
+.subscribe-btn {
+  border: 0;
+  color: #03d39f;
+  font-weight: bold;
+}

@@ -1,0 +1,25 @@
+.shopBtn {
+  font-size: 14px;
+  padding: 12px 26px;
+  line-height: 18px;
+  color: #fff;
+  background: #323232;
+  display: inline-block;
+  border: 0;
+  transition: 0.5s all ease-in-out;
+  font-weight: bold
+}
+.shopBtn:hover {
+  background-color: #56bc94;
+}
+/* Border space */
+.border-space {
+  border-width: 1px;
+  margin-top: 20px;
+  margin-left: 80%;
+  border-color: #323232;
+  border-style: solid;
+}
+.border-space-light {
+  border-color: white;
+}
